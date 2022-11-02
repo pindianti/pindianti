@@ -1,5 +1,5 @@
 👋 Hi, I’m Mila.
-I am Mila, I'm a junior data engineer right now in the e-commerce company
+I'm a junior data engineer right now in the e-commerce company
 
 👀 I’m interested in ...
 Database programming, data management system, ETL etc.
